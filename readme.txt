@@ -1,4 +1,2 @@
-learning git
-2020.08.13
-
-2. learn
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
