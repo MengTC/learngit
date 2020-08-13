@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 changed.
 vulcan.
+another person git clone, create dev new branch and push.
